@@ -1,0 +1,5 @@
+{
+  "name": "NATO Symbol Trainer",
+  "description": "Навчальний тренажер військових символів НАТО (APP-6/MIL-STD-2525) для офіцерів та курсантів.",
+  "requestFramePermissions": ["geolocation"]
+}
